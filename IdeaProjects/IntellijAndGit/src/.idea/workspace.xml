@@ -5,7 +5,6 @@
     <list default="true" id="3ebf525c-bfac-4673-bfe1-74a77a62b8bd" name="Default" comment="" />
 =======
     <list default="true" id="3ebf525c-bfac-4673-bfe1-74a77a62b8bd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pl/czaki/AnotherController.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
 >>>>>>> 632edc3e2c2b5bd4fa4ab2c715d06bd4920ccc4b
@@ -62,8 +61,8 @@
       <file leaf-file-name="Win.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pl/czaki/Win.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -418,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pl/czaki/Win.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
