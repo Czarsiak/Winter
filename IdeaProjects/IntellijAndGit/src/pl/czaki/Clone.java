@@ -1,4 +1,4 @@
 package pl.czaki;
 
-public class Model {
+public class Clone {
 }
